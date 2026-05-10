@@ -1,8 +1,8 @@
 # scaler-Adv-DBMS
 # Database Lab Report: SQLite3 vs PostgreSQL
 
-**Name:** `<Your Name>`  
-**Role Number:** `<Your Role Number>`
+**Name:** `Harsha Shetty`  
+**Role Number:** `10208`
 
 ---
 
